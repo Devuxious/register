@@ -1,0 +1,12 @@
+{
+  "description": "Link to my portfolio site.",
+  "repo": "https://github.com/ziuee/ziuee.github.io",
+  "owner": {
+    "username": "ziue",
+    "email": "remig061234@gmail.com",
+    "discord": "ziue#8495"
+  },
+  "record": {
+    "CNAME": "ziuee.github.io"
+  }
+}
